@@ -8,7 +8,7 @@ String version=resource.getString("version");%>
 <html>
 <body>
 
-<h1>Snapdeal sale is on 1st Feb 2022; 60% OFF</h1>
+<h1>Snapdeal sale is on 2nd Feb 2022; 75% OFF</h1>
 <h1>Welcome Customers after COVID19</h1>
 </body>
 </html>
